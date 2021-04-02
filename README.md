@@ -1,2 +1,2 @@
-# exercicios-portugol
- exercicios do curso em video no portugol
+#Exercícios do Curso em Video de Gustavo Guanabara no Portugol Studio
+ 
